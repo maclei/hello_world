@@ -1,2 +1,2 @@
 # hello_world
-firt python code
+first python code
